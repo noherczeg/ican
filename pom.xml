@@ -61,7 +61,7 @@
                             <schemaDirectory>${project.basedir}/src/main/resources/definitions/countries</schemaDirectory>
                             <packageName>hu.noherczeg.ican.countries.io</packageName>
                             <outputDirectory>${project.basedir}/src/main/java</outputDirectory>
-                            <clearOutputDir>true</clearOutputDir>
+                            <clearOutputDir>false</clearOutputDir>
                         </configuration>
                     </execution>
                 </executions>
